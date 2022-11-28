@@ -1,0 +1,8 @@
+@keyframes bg {
+  from {
+    background-color: blue;
+  }
+  to {
+    background-color: red;
+  }
+}

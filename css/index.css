@@ -1,0 +1,7 @@
+@import './modules/variables.css';
+@import './modules/animations.css';
+
+.bg {
+  /* background-image: linear-gradient(gold, red, transparent); */
+  animation: bg 2s ease-in-out 0s infinite alternate;
+}
