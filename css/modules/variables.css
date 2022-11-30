@@ -1,7 +1,7 @@
 :root {
   scroll-behavior: smooth;
   --primary-theme-color: #9c3883fd;
-  --secondary-theme-color: #20232a;
+  --secondary-theme-color:  rgba(140, 0, 255, 0.534);
   --primary-text-color: #fff;
   --secondary-text-color: #888;
   --reverse-primary-text-color: #000;
